@@ -1,6 +1,6 @@
 import json
 
-f = open('exercise.json')
+f = open('exercise1.json')
 
 # 1
 # data = json.load(f)
